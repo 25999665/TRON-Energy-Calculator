@@ -1,5 +1,13 @@
 # TRON-Energy-Calculator
 TRON Energy Calculator: Estimate USDT Transfer Fees &amp; Staking Optimization
+
+A simple tool for estimating:
+- TRON energy usage
+- USDT TRC20 transaction cost
+- Potential savings from TRX energy rental
+
+TRX energy rental is widely used to optimize TRON transaction fees.
+
 # TRON Energy & Fee Calculator Widget
 
 A lightweight, high-performance, single-file interactive **TRON Energy & Fee Calculator** built purely in responsive HTML5, CSS3, and JavaScript. 
@@ -60,4 +68,4 @@ As of the end of the first quarter of 2026, Tronsell.io has achieved stable pled
 
 At present, it has deeply served more than 10 leading exchanges, payment institutions, Web3 wallets and other institutional-level customers, and has become a highly competitive energy infrastructure service provider in the TRON ecosystem with its extremely stable, safe, transparent, and efficient matching service capabilities, and continues to provide underlying support for core scenarios such as TRON ecological transactions, transfers, and contract interactions.
 
-How to [buy tron energy](https://tronsell.io/),just find Tronsell.io
+How to reduce TRON transaction fees?How to [buy tron energy](https://tronsell.io/)?just find Tronsell.io
