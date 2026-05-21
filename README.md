@@ -60,4 +60,4 @@ As of the end of the first quarter of 2026, Tronsell.io has achieved stable pled
 
 At present, it has deeply served more than 10 leading exchanges, payment institutions, Web3 wallets and other institutional-level customers, and has become a highly competitive energy infrastructure service provider in the TRON ecosystem with its extremely stable, safe, transparent, and efficient matching service capabilities, and continues to provide underlying support for core scenarios such as TRON ecological transactions, transfers, and contract interactions.
 
-How to [buy tron energy](https://tronsell.io/zh),just find Tronsell.io
+How to [buy tron energy](https://tronsell.io/),just find Tronsell.io
